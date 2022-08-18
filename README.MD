@@ -24,7 +24,7 @@ Search and install "codebutton"
 
 ### Mod 1 contains
 
-- Default **title** is set to "download"
+- Default **title** is set to "download"  <-- Updated in this branch to read "download.txt" so handled as text doc by default.
 - *file* has been replaced by **code**
 - *Placeholder text* can select by a **single double click**.
 - **plugin.info.txt** for easy setup using a named zip file
